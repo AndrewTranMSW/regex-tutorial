@@ -1,7 +1,8 @@
 # Regex-Tutorial-Gist
 
-[Link to the gist]
-[Link to the repo]
+[Link to the gist](https://gist.github.com/AndrewTranMSW/d45e963597c85cdb4408752eff9b2a86)
+
+[Link to the repo](https://github.com/AndrewTranMSW/regex-tutorial)
 
 # Description
 
